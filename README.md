@@ -1,4 +1,4 @@
-# GMVPredict
+# GMVPredict: A Pre-Trained Model for Pre-Morbid GMV Estimation
 GMVPredict is a pre-trained machine learning model for predicting pre-morbid hippocampal gray matter volumes (GMV) using both voxel-based morphometry (VBM) and demographic data. While the model itself is pending release, here we provide a Jupyter notebook with sample code demonstrating the development process, including data processing, feature engineering, training, hyperparameter optimization, and testing. 
 
 # Background & Aims
@@ -10,3 +10,7 @@ In a nutshell: by providing an estimate of what 'healthy' GMV would be in patien
 
 While the model itself is trained to predict hippocampal GMV, in principle these methods can easily be used to predict GMV of any other ROI as well. 
 
+---
+William Yang<sup>1*</sup>, Petar Raykov<sup>1</sup>, Andrea Greve<sup>1</sup>
+> <sup>1</sup>MRC Cognition and Brain Sciences Unit, University of Cambridge \
+> <sup>*</sup>Correspondence: wy279@cam.ac.uk
